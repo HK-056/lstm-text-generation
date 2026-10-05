@@ -1,0 +1,5 @@
+venv/
+*.keras
+shakespeare.txt
+__pycache__/
+*.pyc
